@@ -1,13 +1,5 @@
 .App {
   text-align: center;
-  font-size: 35px;
+  font-size: 40px;
   margin: 20%;
-  border: 'red' 10px; 
-
-}
-.App-title{
-
-	text-decoration:underline;
-}
-
-.Clock-hours, .Clo
+  border: 'red' 10px; }
