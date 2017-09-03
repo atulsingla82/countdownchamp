@@ -39,8 +39,6 @@ componentDidMount(){
 
 
 render(){
-	
-	
 
 return(
 
