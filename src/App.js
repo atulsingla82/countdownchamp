@@ -32,11 +32,14 @@ export default class App extends Component {
      </div>
     <Form inline>
     <FormControl
+     bsSize="large"
      className="Deadline-input"
      placeholder='Enter a new date '
      onChange={e => this.setState({newDeadline:e.target.value})}
      />
+     <div>
     <Button bsStyle="primary" bsSize="large"  onClick = {() => this.changeDeadline()} > Submit </Button>
+    </div>
     </Form>
 
      </div>
