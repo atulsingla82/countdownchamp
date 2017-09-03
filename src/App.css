@@ -1,11 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
 .App {
   text-align: center;
   font-size: 40px;
   margin: 20%;
   border: 'red' 10px; }
 
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
-
 body {
-  font-family: 'Indie Flower', cursive;
-}
+  font-family: 'Indie Flower', cursive; }

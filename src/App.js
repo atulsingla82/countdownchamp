@@ -1,7 +1,7 @@
 import React,{ Component } from 'react';
 import './App.css';
 import Clock from './Clock'
-import{Form, Label,FormControl,Button} from 'react-bootstrap'
+import{Form,FormControl,Button} from 'react-bootstrap'
 
 
 export default class App extends Component {
